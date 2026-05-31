@@ -41,19 +41,6 @@ Here are the core technologies and tools I work with:
 
 > **Note:** I also work with **SQL** databases (MySQL, SQLite) and **TypeScript** to build type‑safe applications.
 
----
-
-## 🚀 Featured Projects
-
-| Project | Technologies | Links |
-|---------|--------------|-------|
-| **📦 Functional modules – National Land Institute** <br/> Development of 5 web modules with query optimisation (20% load improvement). | Django, Python, JavaScript, CSS | [🔗 Repo](#) · [🌐 Demo](#) |
-| **✉️ Secure messaging system – Ministry of Health** <br/> Prototype with data encryption and internal communication for administrative staff. | Python, Django, MySQL | [🔗 Repo](#) · [🌐 Demo](#) |
-| **⚡ (Coming soon) Dashboard with React + Django REST** <br/> Interactive control panel with real‑time metrics. | React, Django REST, Chart.js | [🔗 Repo](#) · [🌐 Demo](#) |
-
-> 💡 *Demo/repo links are examples. Replace them with your real projects deployed on Vercel or GitHub Pages.*
-
----
 
 ## 📈 GitHub Stats
 
