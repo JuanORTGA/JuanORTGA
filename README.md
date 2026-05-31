@@ -1,10 +1,15 @@
-<!-- Main header with typing effect -->
+<!-- Capsule Render Banner (creative header) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Juan%20Ortega&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Python%20%7C%20Django%20%7C%20React&descAlignY=55&descAlign=50" alt="Header Banner" />
+</p>
+
+<!-- Enhanced Typing Effect Sub-header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=2F9F6F&center=true&vCenter=true&width=500&lines=👋+Hi%2C+I'm+Juan+Ortega;Full-Stack+Developer;Python+%7C+Django+%7C+React" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2F9F6F&center=true&vCenter=true&width=500&lines=👋+Hi%2C+I'm+Juan+Ortega;Turning+ideas+into+reality;Secure+%26+performant+code" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <i>“Turning ideas into robust, secure and efficient applications”</i>
+  <i>“Building robust applications that make a difference”</i>
 </p>
 
 <p align="center">
@@ -41,6 +46,7 @@ Here are the core technologies and tools I work with:
 
 > **Note:** I also work with **SQL** databases (MySQL, SQLite) and **TypeScript** to build type‑safe applications.
 
+---
 
 ## 📈 GitHub Stats
 
@@ -77,4 +83,9 @@ Here are the core technologies and tools I work with:
 
 <p align="center">
   <i>⭐️ If you like my work, please star my repositories! ⭐️</i>
+</p>
+
+<!-- Capsule Render Footer (optional, for a polished ending) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" />
 </p>
