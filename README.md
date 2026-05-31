@@ -1,12 +1,11 @@
-<!-- Capsule Render Banner (creative header) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Juan%20Ortega&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Python%20%7C%20Django%20%7C%20React&descAlignY=55&descAlign=50" alt="Header Banner" />
-</p>
+<!-- Simple, clean header -->
+<h1 align="center">Juan Ortega</h1>
 
-<!-- Enhanced Typing Effect Sub-header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2F9F6F&center=true&vCenter=true&width=500&lines=👋+Hi%2C+I'm+Juan+Ortega;Turning+ideas+into+reality;Secure+%26+performant+code" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <strong>
+    Full-Stack Developer | Python • Django • React | Soon-to-be Software Engineer | Passionate about performance optimization & clean architecture
+  </strong>
+</p>
 
 <p align="center">
   <i>“Building robust applications that make a difference”</i>
@@ -83,9 +82,4 @@ Here are the core technologies and tools I work with:
 
 <p align="center">
   <i>⭐️ If you like my work, please star my repositories! ⭐️</i>
-</p>
-
-<!-- Capsule Render Footer (optional, for a polished ending) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" />
 </p>
