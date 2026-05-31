@@ -1,6 +1,6 @@
-<!-- Capsule Render Banner (works perfectly on GitHub) -->
+<!-- Banner con nuevos colores (gradiente púrpura/naranja) y mejor espaciado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=Juan%20Ortega&height=120&fontSize=50&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Python%20•%20Django%20•%20React&descAlignY=60&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Juan%20Ortega&fontSize=60&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Python%20•%20Django%20•%20React&descAlignY=55&animation=fadeIn" />
 </p>
 
 <p align="center">
