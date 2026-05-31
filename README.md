@@ -1,26 +1,11 @@
-<!-- Gradient name header with background card -->
-<h1 align="center">
-  <span style="background: linear-gradient(135deg, rgba(0,198,255,0.15), rgba(0,114,255,0.2), rgba(47,159,111,0.15));
-               backdrop-filter: blur(2px);
-               padding: 0.5em 1.2em;
-               border-radius: 60px;
-               display: inline-block;
-               box-shadow: 0 0 20px rgba(0,114,255,0.3), inset 0 1px 0 rgba(255,255,255,0.2);
-               border: 1px solid rgba(0,198,255,0.3);">
-    <span style="background: linear-gradient(135deg, #00c6ff, #0072ff, #2F9F6F); 
-                 background-clip: text; 
-                 -webkit-background-clip: text; 
-                 color: transparent; 
-                 text-shadow: 0 0 15px rgba(0,114,255,0.5);
-                 font-size: 3rem;">
-      Juan Ortega
-    </span>
-  </span>
-</h1>
+<!-- Capsule Render Banner (works perfectly on GitHub) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=Juan%20Ortega&height=120&fontSize=50&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Python%20•%20Django%20•%20React&descAlignY=60&animation=twinkling" />
+</p>
 
 <p align="center">
   <strong>
-    Full-Stack Developer | Python • Django • React | Soon-to-be Software Engineer | Passionate about performance optimization & clean architecture
+    Soon-to-be Software Engineer | Passionate about performance optimization & clean architecture
   </strong>
 </p>
 
