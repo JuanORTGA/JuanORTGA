@@ -1,5 +1,14 @@
-<!-- Simple, clean header -->
-<h1 align="center">Juan Ortega</h1>
+<!-- Gradient name header -->
+<h1 align="center">
+  <span style="background: linear-gradient(135deg, #00c6ff, #0072ff, #2F9F6F); 
+               background-clip: text; 
+               -webkit-background-clip: text; 
+               color: transparent; 
+               text-shadow: 0 0 15px rgba(0,114,255,0.3);
+               font-size: 3rem;">
+    Juan Ortega
+  </span>
+</h1>
 
 <p align="center">
   <strong>
